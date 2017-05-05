@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: practicaexm01
+  host: practicaexm01
+  disk_quota: 1024M
